@@ -9,9 +9,9 @@
 
 
 
-
+<p alight="center">Contact:</p>
 <p align="center">
-##Contact:
+
 <a href="https://www.linkedin.com/in/gledys-muguerza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-icon" height="20" width="20" /></a>
 <a href="https://www.facebook.com/gdys26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook-icon" height="20" width="20" /></a>
 <a href="https://gdys92.tumblr.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" alt="tumblr-icon" height="20" width="20" /></a>
@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
-<br/>
 </div>
 
 
@@ -42,7 +41,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gdys92)
 
-## 💻 My Latest Projects
+## 💻 My Latest Projects:
 <div align = "center">
 <a href = "https://github.com/gdys92/task-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=task-list"></a>
 <a href = "https://github.com/gdys92/GifOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=GifOs"></a>
