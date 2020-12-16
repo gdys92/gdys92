@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gledys </h1>
-<h3 align="center">Full Stack Web Developer </h3>
+<h3 align="center">Desarrollador Web Full Stack | Desarrollador Frontend | Maquetador Web </h3>
 
 
 <p align="center">
@@ -9,11 +9,12 @@
 
 
 
+<p align="center">📱 Contact:
 <p align="center">
-<a href="https://www.linkedin.com/in/gledys-muguerza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-icon" height="20" width="20" /></a>
-<a href="https://www.facebook.com/gdys26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook-icon" height="20" width="20" /></a>
-<a href="https://gdys92.tumblr.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" alt="tumblr-icon" height="20" width="20" /></a>
- <a href="mailto:gdys92@gmail.com" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="mail-icon" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/gledys-muguerza" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-icon" height="30" width="90" /></a>
+<a href="https://wa.link/ozkphj" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="facebook-icon" height="30" width="90" /></a>
+ <a href="mailto:gdys92@gmail.com" target="blank"><img  align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-icon" height="30" width="90" /></a>
+</p>
 </p>
 
 
