@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gledys </h1>
-<h3 align="center">Desarrollador Web Full Stack | Desarrollador Frontend | Maquetador Web </h3>
+<h3 align="center">Full Stack Web Developer | Frontend Developer | Web Designer </h3>
 
 
 <p align="center">
