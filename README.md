@@ -10,7 +10,6 @@
 
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/gledys-muguerza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-icon" height="20" width="20" /></a>
 <a href="https://www.facebook.com/gdys26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook-icon" height="20" width="20" /></a>
 <a href="https://gdys92.tumblr.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" alt="tumblr-icon" height="20" width="20" /></a>
