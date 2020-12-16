@@ -15,7 +15,6 @@
 <a href="https://www.facebook.com/gdys26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook-icon" height="20" width="20" /></a>
 <a href="https://gdys92.tumblr.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg" alt="tumblr-icon" height="20" width="20" /></a>
  <a href="mailto:gdys92@gmail.com" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="mail-icon" height="20" width="20" /></a>
-  <br />
 </p>
 
 
