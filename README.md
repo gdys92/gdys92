@@ -41,15 +41,15 @@
 </div>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gdys92&count_private=true&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdys92&hide=TeX&layout=compact&theme=merko)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gdys92&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdys92&hide=TeX&layout=compact&theme=tokyonight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gdys92)
 
 ## 💻 My Latest Projects:
 <div align = "center">
-<a href = "https://github.com/gdys92/task-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=task-list&theme=merko"></a>
-<a href = "https://github.com/gdys92/GifOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=GifOs&theme=merko"></a>
+<a href = "https://github.com/gdys92/task-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=task-list&theme=tokyonight"></a>
+<a href = "https://github.com/gdys92/GifOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=GifOs&theme=tokyonight"></a>
 <div>
  <hr>
