@@ -49,7 +49,7 @@
 
 ## 💻 My Latest Projects:
 <div align = "center">
-<a href = "https://github.com/gdys92/task-lis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=task-list&theme=merko"></a>
+<a href = "https://github.com/gdys92/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=task-list&theme=merko"></a>
 <a href = "https://github.com/gdys92/GifOs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=GifOs&theme=merko"></a>
 <div>
  <hr>
