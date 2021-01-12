@@ -41,8 +41,8 @@
 </div>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=gdys92&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdys92&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gdys92&count_private=true&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdys92&hide=TeX&layout=compact&theme=material-palenight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gdys92)
