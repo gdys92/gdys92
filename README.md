@@ -49,7 +49,7 @@
 
 ## 💻 My Latest Projects:
 <div align = "center">
-<a href = "https://github.com/gdys92/MERN-favorite-videos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=MERN-favorite-videoss&theme=tokyonight"></a>
+<a href = "https://github.com/gdys92/MERN-favorite-videos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=MERN-favorite-videos&theme=tokyonight"></a>
 <a href = "https://github.com/gdys92/MEAN-photo-gallery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gdys92&repo=MEAN-photo-gallery&theme=tokyonight"></a>
 <div>
  <hr>
