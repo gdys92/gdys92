@@ -50,7 +50,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdys92&hide=TeX&layout=compact&theme=tokyonight)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gdys92)
+<p align="center">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gdys92)
+<p align="center">
 
 ## 💻 My Latest Projects:
 <div align = "center">
