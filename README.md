@@ -49,12 +49,14 @@
 </div>
 
 
+<div aligh = "center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gdys92&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdys92&hide=TeX&layout=compact&theme=tokyonight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gdys92)
 
+  <div>
 
 ## 💻 My Latest Projects:
 <div align = "center">
